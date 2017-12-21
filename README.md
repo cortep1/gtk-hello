@@ -1,2 +1,2 @@
 # gtk-hello
-Folling elementaryOS's guetting started guide.
+Follows elementaryOS's guetting started guide.
